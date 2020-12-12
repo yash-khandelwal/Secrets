@@ -10,7 +10,9 @@ body {
 
 .secret-text {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.2rem;
   color: #fff;
+  padding: 1em;
   background-color: #000;
+  border-radius: 1em;
 }
